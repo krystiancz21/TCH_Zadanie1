@@ -1,0 +1,15 @@
+{
+  "name": "docker_z1",
+  "version": "1.0.0",
+  "description": "zadanie1",
+  "author": "Krystian Czapla <s95382@pollub.edu.pl>",
+  "main": "server.js",
+  "scripts": {
+      "start": "node server.js"
+  },
+  "dependencies": {
+      "moment-timezone": "^0.5.43",
+      "npm": "^9.6.6",
+      "package-lock.json": "^1.0.0"
+  }
+}
